@@ -1,0 +1,11 @@
+para instalar modulos de node: npm install
+
+para ejecutar el programa: node app.js
+
+para ejecutar el programa y refrescar al momento de hacer cambios: nodemon app.js
+
+para ejecutar un comando especificado en el "package.json" en este caso el comando especial start: npm start
+
+para ejecutar un comando especificado en el "package.json" que no es especial: npm run nombre_comando
+
+para abrir en el navegador la app con heroku ejecutandolo en el git bash: heroku open
